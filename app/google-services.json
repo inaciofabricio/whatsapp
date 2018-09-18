@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1001382677822",
+    "firebase_url": "https://whataspp-6530b.firebaseio.com",
+    "project_id": "whataspp-6530b",
+    "storage_bucket": "whataspp-6530b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001382677822:android:12a51d0336a3cb4a",
+        "android_client_info": {
+          "package_name": "com.curso.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001382677822-sbavs4gvkuqstgqks1mvl2qbmd505bm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqiJqStd7siTyqGS4ADf2CsI-gT2WGDx4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
